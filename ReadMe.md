@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on contributing to linux<br>🌱 I’m currently learning cybersecurity
+🔭 I’m currently working on contributing to the linux kernel<br>🌱 I’m currently learning cybersecurity
 
 
 # 💻 Tech Stack:
